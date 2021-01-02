@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="889e6863-2964-41a7-b461-194d2b497455" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler-website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/persist/client/itemsaver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/persist/rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/persist/server/ItemSaver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/persist/server/client_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/rpcsupport/rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/worker/client/worker.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/worker/rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/worker/server/client_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/worker/server/worker.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distributed/worker/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/concurrent.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/simple.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/worker.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fetcher/fetcher.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/controller/searchresult.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/starter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/OpenSans/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/images/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/images/zhenai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/model/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/search_result_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/searchresult.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/template.test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/template_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/view/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/HomePage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/MainPage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/profile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/persist/itemsaver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/persist/itemsaver_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/queued.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scheduler/simple.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhenai/parser/city.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhenai/parser/citylist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhenai/parser/citylist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhenai/parser/citylist_test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhenai/parser/profile.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mV5Gmqcwm17z9GMts6II2XjLpJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn/,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="258" key="#Go_Modules" timestamp="1609565899910">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="534" y="258" key="#Go_Modules/0.23.1440.822/173.-1057.1920.1057@0.23.1440.822" timestamp="1609565899910" />
+    <state x="507" y="244" key="#Notifications" timestamp="1609570546080">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="507" y="244" key="#Notifications/0.23.1440.821/173.-1057.1920.1057@0.23.1440.821" timestamp="1609570546080" />
+    <state x="633" y="286" key="EnvironmentVariablesDialog" timestamp="1609565898959">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="633" y="286" key="EnvironmentVariablesDialog/0.23.1440.822/173.-1057.1920.1057@0.23.1440.822" timestamp="1609565898959" />
+    <state x="435" y="143" width="598" height="548" key="find.popup" timestamp="1609570808085">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="435" y="143" width="598" height="548" key="find.popup/0.23.1440.821/173.-1057.1920.1057@0.23.1440.821" timestamp="1609570808085" />
+    <state x="435" y="143" width="598" height="548" key="find.popup/0.23.1440.822/173.-1057.1920.1057@0.23.1440.822" timestamp="1609565941608" />
+    <state x="418" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1609567565435">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="418" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822/173.-1057.1920.1057@0.23.1440.822" timestamp="1609567565435" />
+  </component>
+</project>
